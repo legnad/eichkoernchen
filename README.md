@@ -20,7 +20,7 @@ A detailed documentation is pending.
 
 1) Install Python 3 including pip and tkinter: https://www.python.org/downloads/
 
-2) Download latest release and unzip: https://github.com/legnad/eichkoernchen/blob/master/eichk%C3%B6rnchen_0.1bi.zip
+2) Download latest release and unzip: https://github.com/legnad/eichkoernchen/raw/master/eichk%C3%B6rnchen_0.1bi.zip
 
 3) Run the "install_modules.py" file to install dependencies. 
 
