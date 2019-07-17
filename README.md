@@ -20,6 +20,8 @@ A detailed documentation is pending.
 
 1) Install Python 3 including pip and tkinter. 
 
-2) Run the "install_modules.py" file to install dependencies. 
+2) Download latest release and unzip: [https://github.com/legnad/eichkoernchen/blob/master/eichk%C3%B6rnchen_0.1bi.zip](https://github.com/legnad/eichkoernchen/blob/master/eichk%C3%B6rnchen_0.1bi.zip)
 
-3) Start the Program by starting "eichkörnchen.py".
+3) Run the "install_modules.py" file to install dependencies. 
+
+4) Start the Program by starting "eichkörnchen.py".
