@@ -13,3 +13,13 @@ Export to Spreadsheet (xlsx) - one grain per line:
 ![EICHKÖRNCHEN Spreadsheet](pictures/Spreadsheet.PNG)
 
 A detailed documentation is pending.
+
+## INSTALLATION
+
+### Windows: 
+
+1) Install Python 3 including pip and tkinter. 
+
+2) Run the "install_modules.py" file to install dependencies. 
+
+3) Start the Program by starting "eichkörnchen.py".
